@@ -13,6 +13,8 @@ From "AUGMENTING HUMAN INTELLECT: A CONCEPTUAL FRAMEWORK" - http://www.dougengel
 
 The FIRST STAGE of development is to create a Yahoo Pipes style interface and an API for wrapping javascript libraries such that they are usable with the "Dataflow" style of programming, similar to Pure Data (PD). The individual scripts could communicate by consuming and emmiting structured text in the form of JSON objects.
 
+Perhaps we can use sharcount.com for a Postrank type functionality - long term we should attempt to develope are own opensource replacement, in case companies go out of bussiness.
+
 From wikipedia article - https://en.wikipedia.org/wiki/Dataflow_programming
 
 'In computer programming, dataflow programming is a programming paradigm that models a program as a directed graph of the data flowing between operations, thus implementing dataflow principles and architecture. Dataflow programming languages share some features of functional languages, and were generally developed in order to bring some functional concepts to a language more suitable for numeric processing. Some authors use the term Datastream instead of Dataflow to avoid confusion with Dataflow Computing or Dataflow architecture, based on an indeterministic machine paradigm.'
