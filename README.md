@@ -21,14 +21,14 @@ The SECOND STAGE is to recreate the functionality of Yahoo Pipes and to create m
 
 
 References:
-Yahoo Pipes Video - https://www.youtube.com/watch?v=8XSm8ZyxMrU
-JSON - http://json.org/
-Infortention Mindmap - http://cmapspublic3.ihmc.us/rid=1GGG55974-H3VQRB-J1D/Infotention%20Filters.cmap
-Mind Amplifier Book - http://blog.ted.com/new-ted-book-mind-amplifier/
-NetSmart Book - http://www.amazon.com/Net-Smart-How-Thrive-Online-ebook/dp/B007D5UP9G
-Online clases with Howard! Check out Mini-Courses - http://www.rheingold.com/university/
-Yahoo Pipes - http://pipes.yahoo.com/pipes/
-POSIX - https://en.wikipedia.org/wiki/C_POSIX_library
+* Yahoo Pipes Video - https://www.youtube.com/watch?v=8XSm8ZyxMrU
+* JSON - http://json.org/
+* Infortention Mindmap - http://cmapspublic3.ihmc.us/rid=1GGG55974-H3VQRB-J1D/Infotention%20Filters.cmap
+* Mind Amplifier Book - http://blog.ted.com/new-ted-book-mind-amplifier/
+* NetSmart Book - http://www.amazon.com/Net-Smart-How-Thrive-Online-ebook/dp/B007D5UP9G
+* Online clases with Howard! Check out Mini-Courses - http://www.rheingold.com/university/
+* Yahoo Pipes - http://pipes.yahoo.com/pipes/
+* POSIX - https://en.wikipedia.org/wiki/C_POSIX_library
 
 * Since Yahoo Pipes is shutting down. I'll attempt to post PDFs of the documentation soon
 
