@@ -30,6 +30,5 @@ References:
 * Yahoo Pipes - http://pipes.yahoo.com/pipes/
 * POSIX - https://en.wikipedia.org/wiki/C_POSIX_library
 
-* Since Yahoo Pipes is shutting down. I'll attempt to post PDFs of the documentation soon
-
-Howard Rheingold is not involved in this project. I took a couple online classes with Howard as the intructor. If we build something that works, I'm sure he'll be very excited and willing to share the project with other developers in his "personal learning network".
+Note: Since Yahoo Pipes is shutting down. I'll attempt to post PDFs of the documentation soon
+Note: Howard Rheingold is not involved in this project. I took a couple online classes with Howard as the intructor. If we build something that works, I'm sure he'll be very excited and willing to share the project with other developers in his "personal learning network".
