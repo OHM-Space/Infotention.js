@@ -11,7 +11,7 @@ From "AUGMENTING HUMAN INTELLECT: A CONCEPTUAL FRAMEWORK" - http://www.dougengel
 
 'By "augmenting human intellect" we mean increasing the capability of a man to approach a complex problem situation, to gain comprehension to suit his particular needs, and to derive solutions to problems. Increased capability in this respect is taken to mean a mixture of the following: more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble. And by "complex situations" we include the professional problems of diplomats, executives, social scientists, life scientists, physical scientists, attorneys, designers--whether the problem situation exists for twenty minutes or twenty years. We do not speak of isolated clever tricks that help in particular situations. We refer to a way of life in an integrated domain where hunches, cut-and-try, intangibles, and the human "feel for a situation" usefully co-exist with powerful concepts, streamlined terminology and notation, sophisticated methods, and high-powered electronic aids.'
 
-The FIRST STAGE of development is to create a Yahoo Pipes style interface and an API for wrapping javascript libraries such that they are usable with the "Dataflow" style of programming, similar to Pure Data (PD).
+The FIRST STAGE of development is to create a Yahoo Pipes style interface and an API for wrapping javascript libraries such that they are usable with the "Dataflow" style of programming, similar to Pure Data (PD). The individual scripts could communicate by consuming and emmiting structured text in the form of JSON objects.
 
 From wikipedia article - https://en.wikipedia.org/wiki/Dataflow_programming
 
@@ -19,13 +19,17 @@ From wikipedia article - https://en.wikipedia.org/wiki/Dataflow_programming
 
 The SECOND STAGE is to recreate the functionality of Yahoo Pipes and to create modules that are specifically targeting the different aspects of Infortention and Mind Amplification following the H-LAM/T philosophy.
 
-References:
 
+References:
+Yahoo Pipes Video - https://www.youtube.com/watch?v=8XSm8ZyxMrU
+JSON - http://json.org/
 Infortention Mindmap - http://cmapspublic3.ihmc.us/rid=1GGG55974-H3VQRB-J1D/Infotention%20Filters.cmap
 Mind Amplifier Book - http://blog.ted.com/new-ted-book-mind-amplifier/
 NetSmart Book - http://www.amazon.com/Net-Smart-How-Thrive-Online-ebook/dp/B007D5UP9G
 Online clases with Howard! Check out Mini-Courses - http://www.rheingold.com/university/
 Yahoo Pipes - http://pipes.yahoo.com/pipes/
+POSIX - https://en.wikipedia.org/wiki/C_POSIX_library
+
 * Since Yahoo Pipes is shutting down. I'll attempt to post PDFs of the documentation soon
 
 Howard Rheingold is not involved in this project. I took a couple online classes with Howard as the intructor. If we build something that works, I'm sure he'll be very excited and willing to share the project with other developers in his "personal learning network".
