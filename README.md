@@ -20,10 +20,12 @@ From wikipedia article - https://en.wikipedia.org/wiki/Dataflow_programming
 The SECOND STAGE is to recreate the functionality of Yahoo Pipes and to create modules that are specifically targeting the different aspects of Infortention and Mind Amplification following the H-LAM/T philosophy.
 
 References:
-Infotention.com
+
+Infortention Mindmap - http://cmapspublic3.ihmc.us/rid=1GGG55974-H3VQRB-J1D/Infotention%20Filters.cmap
 Mind Amplifier Book - http://blog.ted.com/new-ted-book-mind-amplifier/
 NetSmart Book - http://www.amazon.com/Net-Smart-How-Thrive-Online-ebook/dp/B007D5UP9G
 Online clases with Howard! Check out Mini-Courses - http://www.rheingold.com/university/
 Yahoo Pipes - http://pipes.yahoo.com/pipes/
-* Since Yahoo Pipes is shutting down. I'll attempt to post PDFs of the documentation soon *
+* Since Yahoo Pipes is shutting down. I'll attempt to post PDFs of the documentation soon
 
+Howard Rheingold is not involved in this project. I took a couple online classes with Howard as the intructor. If we build something that works, I'm sure he'll be very excited and willing to share the project with other developers in his "personal learning network".
