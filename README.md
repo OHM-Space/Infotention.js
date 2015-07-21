@@ -28,6 +28,7 @@ References:
 * Infortention Mindmap - http://cmapspublic3.ihmc.us/rid=1GGG55974-H3VQRB-J1D/Infotention%20Filters.cmap
 * Mind Amplifier Book - http://blog.ted.com/new-ted-book-mind-amplifier/
 * NetSmart Book - http://www.amazon.com/Net-Smart-How-Thrive-Online-ebook/dp/B007D5UP9G
+* Talk about NetSmart - https://www.youtube.com/watch?v=PvuBpdhkDV8
 * Online clases with Howard! Check out Mini-Courses - http://www.rheingold.com/university/
 * Yahoo Pipes - http://pipes.yahoo.com/pipes/
 * POSIX - https://en.wikipedia.org/wiki/C_POSIX_library
