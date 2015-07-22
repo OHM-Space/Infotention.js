@@ -19,13 +19,13 @@ From wikipedia article - https://en.wikipedia.org/wiki/Dataflow_programming
 
 'In computer programming, dataflow programming is a programming paradigm that models a program as a directed graph of the data flowing between operations, thus implementing dataflow principles and architecture. Dataflow programming languages share some features of functional languages, and were generally developed in order to bring some functional concepts to a language more suitable for numeric processing. Some authors use the term Datastream instead of Dataflow to avoid confusion with Dataflow Computing or Dataflow architecture, based on an indeterministic machine paradigm.'
 
-The SECOND STAGE is to recreate the functionality of Yahoo Pipes and to create modules that are specifically targeting the different aspects of Infortention and Mind Amplification following the H-LAM/T philosophy.
+The SECOND STAGE is to recreate the functionality of Yahoo Pipes and to create modules that are specifically targeting the different aspects of Infotention and Mind Amplification following the H-LAM/T philosophy.
 
 
 References:
 * Yahoo Pipes Video - https://www.youtube.com/watch?v=8XSm8ZyxMrU
 * JSON - http://json.org/
-* Infortention Mindmap - http://cmapspublic3.ihmc.us/rid=1GGG55974-H3VQRB-J1D/Infotention%20Filters.cmap
+* Infotention Mindmap - http://cmapspublic3.ihmc.us/rid=1GGG55974-H3VQRB-J1D/Infotention%20Filters.cmap
 * Mind Amplifier Book - http://blog.ted.com/new-ted-book-mind-amplifier/
 * NetSmart Book - http://www.amazon.com/Net-Smart-How-Thrive-Online-ebook/dp/B007D5UP9G
 * Talk about NetSmart - https://www.youtube.com/watch?v=PvuBpdhkDV8
