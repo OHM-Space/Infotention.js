@@ -21,6 +21,8 @@ From wikipedia article - https://en.wikipedia.org/wiki/Dataflow_programming
 
 The SECOND STAGE is to recreate the functionality of Yahoo Pipes and to create modules that are specifically targeting the different aspects of Infotention and Mind Amplification following the H-LAM/T philosophy.
 
+Possible THIRD STAGE is to build on the Data Flow access to general javascrtip APIs into a general programing tool that helps programers work with a Data Flow based Integration View of whatever program they are working on. This could help them more improvisationally try out integrations of software compenents for rapid prototyping and also impriove integration and unit testing.
+
 
 References:
 * Yahoo Pipes Video - https://www.youtube.com/watch?v=8XSm8ZyxMrU
